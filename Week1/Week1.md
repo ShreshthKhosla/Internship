@@ -6,7 +6,7 @@ The day commenced with gaining more knowledge about the workplace, the office, a
 ##  Constructing and Calibrating a Prusa Slicer Mini+ 3D Printer
 Afterwards, our initial assignment was to construct a Prusa Slicer Mini+ following the instructions provided in the manual. The printer will be used for the labs for future use. After assembling the 3D printer, we fine-tuned it by calibrating and testing it with a small design created on SOLIDWORKS and rendered on Prusa Slicer. The test piece produced was flawed due to a problem with the nozzle height, which was rectified by adjusting the probe through referencing the distance between the probe and nozzle. Following this, we printed an Air fan Adapter on the 3D printer. The purpose of the Air fan is to accessorize the laser cutter machine. The 3D printed adapter will be used to fit the exhaust pipe of the laser cutter machine. 
 
-![](Week1/assembling prussa mini+.jpeg "Assembling Prusa Mini+")
+![](Week1/assembling prussa mini+.jpeg)
 <img src=".Week1/assembling prussa mini+.jpeg" width=200 height=200>
 
 [](prusamini%2B.jpg "Assembled Prusa Mini+" )
