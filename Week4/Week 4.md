@@ -26,6 +26,6 @@ Our objective was to test the CNC milling PCBs that we had soldered the previous
 
 ## Cutting wood to organize waste
 
-As we had an easter weekend, we had to organize the waste and cut the woods. We were given a short safety lesson on how to use the machines. We had an automatic hand saw machine and a bench saw machine. We completed the task and cleaned the area.
+As we had an easter weekend, we had to organize the waste and cut the woods. We were given a short safety lesson on how to use the machines. We had an automatic hand saw machine and a band saw machine. We completed the task and cleaned the area.
 
 ![](Wood%20Cutting.jpeg "")
